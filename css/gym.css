@@ -1,0 +1,397 @@
+body{margin:0 auto;padding:0 auto;}
+.menu_section{
+	float:left;
+	width:100%;	
+	
+	
+	
+	
+}
+.menu_two{
+	float: right;
+	width: 30%;
+	margin: -3em 6em 0em 0em;
+}
+
+
+
+
+
+
+.meeting_section{
+	float:left;
+	width:100%;
+	margin: 8em 0em 0em 0em;
+	
+}
+.meeting_one{
+	float:left;
+	width:50%;
+	margin: 0em 0em 0em -1em;
+}
+.meeting_two{
+	float:right;
+	width:50%;
+	margin: -3em 0em 0em 0em;
+	
+}
+.meeting_two img{
+	float:left;
+	width:100%;
+}
+.meeting_one h2{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:55.2px;
+	font-weight:600;
+	text-align: center;
+}
+.meeting_one p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;line-height:1.4;
+	font-weight:400;
+	margin: 4em 0em 0em 4em;
+text-align: left;
+}
+.perform_section{
+	float:left;
+	width:100%;
+}
+.perform_one{
+	float:left;
+	width:50%
+}
+.perform_two{
+	float:right;
+	width:50%;
+}
+.perform_one img{
+	float:left;
+	width:100%;
+}
+.perform_two h1{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:55.8px;
+	font-weight:700;
+	margin: 1em 0em 1em 1em;
+text-align: left;
+}
+.perform_two p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	margin: 2em 1em 0em 3em;
+	
+	text-align: left;
+}
+.perform_two h4{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	text-align:left;
+	margin: 2em 0em 0em 3em;
+}
+.strength_section{
+	float:left;
+	width:100%;
+}
+.strength_one{
+	float:left;
+	width:45%;
+	margin: 2em 0em 0em 2em;
+}
+.strength_two{
+	float:right;
+	width:50%;
+}
+.strength_two img{
+	float:left;
+	width:100%;
+}
+.strength_one h1{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:55.8px;
+	font-weight:700;
+	margin: 1em 0em 0em 0em;
+text-align: left;
+}
+.strength_one p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	margin: 2em 1em 0em 0em;
+	
+text-align: left;
+}
+.now_section{
+	float:left;
+	width:106%;
+	text-align:center;
+	background-color: #2ca438;
+	color:white;
+	padding: 2em 0em 2em 0em;
+margin: 0em 0em 0em -5em;
+}
+.about_section{
+	float:left;
+	width:93%;
+	margin: 1em 0em 0em 2em;
+}
+.about_section h1{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:55.8px;
+	font-weight:700;
+	margin: 1em 0em 0em 0em;
+text-align: left;
+}
+.about_section p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	margin: 4em 1em 0em 0em;
+	
+	text-align: left;
+}
+.perform_section{
+	float:left;
+	width:100%;
+}
+.perform_one{
+	float:left;
+	width:43%;
+	margin: 7em 0em 0em 3em;
+}
+.perform_one img{
+	float:left;
+	width:90%;
+}
+.perform_two{
+	float:right;
+	width:50%;
+	margin: 5em 0em 0em 0em;
+	
+}
+.perform_two h3 {
+    text-align: left;
+    margin: 2em 0em 0em 3em;
+	color:red;
+}
+.perform_two h4{
+	color:red;
+	margin: -3em 0em 0em 3em;
+}
+.endurance_section{
+	float:left;
+	width:100%;
+}
+.endurance_one{
+	float:left;
+	width:45%;
+	margin: 3em 0em 0em 5em;
+}
+.endurance_two{
+	float:right;
+	width:45%;
+	margin: 5em 0em 0em 0em;
+}
+.endurance_two img{
+	float:left;
+	width:85%;
+}
+.endurance_one h1{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:32.6.8px;
+	font-weight:700;
+	margin: 1em 0em 0em 0em;
+text-align: left;
+}
+.endurance_one p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	margin: 4em 1em 0em 0em;
+}
+.endurance_one h4{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+	margin: 0em 0em 0em 0em;
+	color:red;
+}
+.endurance_one h3{
+	color:red;
+}
+.perform_two h5 {
+    text-align: left;
+    margin: 2em 0em 0em 3em;
+    color: red;
+    font-size: 20px;
+}
+.planning_section{
+	float:left;
+	width:106%;
+	background:#E8E8E8;
+	margin: 1em 0em 0em -5em;
+}
+.plan_part1 {
+    float: left;
+    width: 40%;
+    margin: 1em 0em 0em 11em;
+}
+.plan_part2 {
+    float: right;
+    width: 40%;
+    margin: 1em 1em 0em 0em;
+}
+.planning_section h1{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:33px;
+	font-weight:600;
+	text-align:left;
+	 margin: 2em 0em 0em 3em;
+}
+.plan_one h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.plan_two h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.plan_three h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.plan_one p{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_two p{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_three p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_four p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_five p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_six p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:400;
+}
+.plan_four h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.plan_five h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.plan_six h4{
+		font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:600;
+}
+.join_section{
+	float:left;
+	width:100%;
+	margin: 5em 0em 0em 0em;
+}
+.join_one{
+	float:left;
+	width:46%;
+	margin: 10em 0em 0em 3em;
+}
+.join_two{
+	float:right;
+	width:48%;
+}
+.join_two img{
+	float:left;
+	width:100%;
+}
+.join_one h1{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:32.2px;
+	font-weight:700;
+}
+.join_one p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:300;
+}
+.final_section{
+	float:left;
+	width:106%;
+	background:#000F36;
+	color:white;
+	margin: 1em 0em 0em -5em;
+	padding: 5em 0em 0em 0em;
+}
+.final_parts{
+	float:left;
+	width:100%;
+}
+.final_one{
+	float:left;
+	width:33.3%;
+	margin: 0em 0em 0em 7em;
+	
+}
+.final_two{
+	float:left;
+	width:33.3%;
+}
+.final_thtree{
+	float:right;
+	width:33.3%;
+}
+.final_one p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:19.2px;
+	font-weight:300;
+}
+.final_two p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:32.64px;
+	font-weight:300;
+}
+.final_three p{
+	font-family:"Red Hat Text", sans-serif;
+	font-size:32.64px;
+	font-weight:300;
+}
+.menu_order{
+	position:fixed;
+	background:#EFEFEF;
+}
+.cta00 {
+    width: 60%;
+    height: 58px;
+    background: green;
+    color: white;
+    font-size: 25px;
+    border-radius: 30px;
+    border: 1px solid white;
+	cursor: pointer;
+}
+.cta00:hover {
+	background-color: blue;
+  }
